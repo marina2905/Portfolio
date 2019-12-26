@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Sobre mim</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						  
+						<h1>Marina Albuquerque</h1>
+
+<p>Olá meu nome é Marina Albuquerque, estudo Design na ESDI/UERJ, já trabalhei  como voluntária nos laborátorios DECA-UERJ e LAPPIS-UERJ, participei de um projeto de 
+extensão o ESDILAB-ESDI, além disso, já prestei serviço como freelancer para o escritório de arquitetura Mari Moraes Arquitetura. Possuo interesse 
+em processos criativos de produção, metodologia, programação e softwares. 
+Como referência de designer gosto de Aloísio Magalhães e a Metodológia, 
+uso como referência a metodologia projetual de Gui Bonsiepe. Possuo conhecimento em Corel Draw em nível avançado,
+illustrator no nível Intermediário, Photoshop no nível Intermediário,
+Sony Vegas no nível Intermediário, HTML no nível Básico, CSS nível Básico, Autocad no nível intermediário, Solidworks no nível intermediário.</p>
+
+
+                                        <footer id="footer">
+						<p>Email: Marinasilva2905@gmail.com &nbsp; &nbsp; &nbsp; Tel: 21 992919-418</p>
+					</footer>
+
+
+
+
+					
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+
+</html>
